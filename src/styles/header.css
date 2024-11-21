@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    display: flex;
+}
+
+.left {
+    width: 48%;
+    margin: 10px;
+    padding: 10px;
+    color: #ffff;
+    align-items: center;
+}
+
+.right {
+    width: 48%;
+    margin: 10px;
+    padding: 10px;
+    color: #ffff;
+    align-items: center;
+}
