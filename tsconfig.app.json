@@ -3,7 +3,7 @@
     "target": "ESNext",
     "useDefineForClassFields": true,
     // "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "module": "ESNext",
+    "module": "NodeNext",
     "skipLibCheck": true,
 
     /* Bundler mode */
@@ -25,7 +25,7 @@
     
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": ["dom", "dom.iterable", "esnext"]
   },
 
 
